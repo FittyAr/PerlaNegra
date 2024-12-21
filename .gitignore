@@ -1,0 +1,15 @@
+assets/external/
+*.sqlite3
+*.sqlite
+*.db
+*.py[cod]
+.cursorignore
+.venv/
+.web
+__pycache__/
+venv/
+env/
+.venv/
+.env/
+alembic/
+alembic.ini
